@@ -1,2 +1,3 @@
-# PraticalMachineLearning_Project
-Data Science Coursera Specialisation - Module 8
+# Practical Machine Learning
+## Coursera Data Science Specialisation - Module 8
+
